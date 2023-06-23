@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.card-item-image {
+  width: 92px;
+  height: 92px;
+}
+
+.card-item-name {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.stats-container {
+  display: flex;
+  align-items: center;
+  width: 85%;
+  margin-bottom: 16px;
+}
+
+.stats-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 12px;
+}
+
+.stats-text {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin: 0px;
+}
